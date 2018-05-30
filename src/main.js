@@ -1,3 +1,5 @@
+import $ from 'jquery';
+
 //Game class constructor, this is the main object that holds and manages the game
 function Game() {
   this.userHeroList = [];
